@@ -1,5 +1,4 @@
 "use client";
-import { cn } from "@/lib/utils";
 import { FlipWords } from "./ui/flip-words";
 import Link from "next/link";
 
